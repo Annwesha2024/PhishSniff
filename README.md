@@ -37,7 +37,3 @@ PhishSniff instantly analyzes it and replies with:
 - A **confidence score** (e.g., 87.4% phishing)  
 
 ---
-
-## 🧠 Example Interactions
-
-**Example 1 — Phishing Link**
